@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://thedailyguardian.com/wp-content/uploads/2024/04/Virat-Kohli_TDG.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2500000
+  },
+  {
+    "playerId": 2,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://institute.careerguide.com/wp-content/uploads/2024/04/Kane-Williamson-1024x768.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 3,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "https://e0.365dm.com/23/11/2048x1152/skysports-mitchell-starc-south-africa-vs-australia_6362250.jpg?20231116090543",
+    "role": "Bowler",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://crictoday.com/wp-content/uploads/2023/03/Untitled-design-12.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium-fast",
+    "biddingPrice": 2200000
+  },
+  {
+    "playerId": 5,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.aaj.tv/primary/2023/05/03125200e8011d7.webp",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 2300000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://crictoday.com/wp-content/uploads/2023/02/rashid-khan-resigns-as-afghanistan-captain-for-t20-world-cup-with-immediate-effect-3-1-1-1024x576.webp",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg-spin",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": 7,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://cdn.24.co.za/files/Cms/General/d/9735/a758d04899a44d76ab090305118770f3.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm leg-spin",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/370200/370250.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 2100000
+  },
+  {
+    "playerId": 9,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://images.prothomalo.com/prothomalo-english%2F2023-08%2F69852014-e194-4504-a669-bc4d1e06cae3%2Fprothomalo_bangla_2023_08_5cf9b0f5_9e86_48a2_be2b_f3532f1b0504_Shakib_reacts_after_taking_Rasid_Khan.webp?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm orthodox spin",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 10,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/en/img/article/2021-10/28/full/1635412854-4379.jpg&w=&h=&outtype=webp",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 11,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://images.firstpost.com/uploads/2023/08/Pat-Cummins-640_AP.jpg?im=FitAndFill=(1200,675)",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 2400000
+  },
+  {
+    "playerId": 12,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i2.wp.com/crictoday.com/wp-content/uploads/2023/03/cricket-t20-ind-ipl-kolkata-mumbai_ec228a76-6a45-11e9-adf4-e14f82ec3649-HEN.jpg?ssl=1",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2300000
+  }
+]
