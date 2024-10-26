@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 const Header = ({coins}) => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto sticky top-0 z-30 bg-white">
       <div className="navbar">
         <div className="navbar-start">
           <div className="dropdown">

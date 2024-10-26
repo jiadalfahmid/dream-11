@@ -4,15 +4,16 @@ import shadow from '../../assets/bg-shadow.png';
 const Footer = () => {
   return (
     <div className="mt-40">
-      <div className="hero border border-white -mb-20 container mx-auto">
-         <img src={shadow} alt="" className="w-full h-52 bg-white rounded-lg"/>
+      <footer className="bg-black p-10 flex flex-col items-center">
+      <div className="hero border border-white -mt-40 p-6 rounded-2xl bg-[#ffffff23] mb-12 container mx-auto">
+         <img src={shadow} alt="" className="w-full h-full lg:h-52 bg-white rounded-xl"/>
         <div className="hero-content text-center">
           <div className="max-w-md">
-            <h1 className="text-2xl font-bold">Subscribe to our Newsletter</h1>
+            <h1 className="text-xl max-md:pt-8 lg:text-2xl font-bold">Subscribe to our Newsletter</h1>
             <p className="py-6">Get the latest updates and news right in your inbox!
             </p>
             <fieldset className="form-control">
-              <div className="space-x-3">
+              <div className="space-x-3 max-sm:space-y-4">
                 <input
                   type="text"
                   placeholder="username@site.com"
@@ -26,7 +27,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <footer className="bg-black p-10 pt-32 flex flex-col items-center">
         <img src={logo} alt="" className="w-36 mb-16" />
         <div className="container mx-auto grid lg:grid-cols-3">
           <nav>
