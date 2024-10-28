@@ -4,6 +4,7 @@ Cricket Dream 11 is an interactive web application where users can create their 
 
 **Live Link** [Cricket Dream 11](https://cricket-dream-11.netlify.app/)
 
+
 ## Features 
 
 1. **Player Selection and Management**
@@ -17,6 +18,7 @@ Cricket Dream 11 is an interactive web application where users can create their 
 3. **Real-time Notifications**
    - Uses `React Tostify` for instant feedback on actions.
    - Success, warning, and error notifications ensure smooth interaction.
+
 
 ## Technologies Used
 
