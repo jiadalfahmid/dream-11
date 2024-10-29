@@ -1,10 +1,10 @@
-# Cricket Dream 11
+# Cricket Dream 11 
 
 Cricket Dream 11 is an interactive web application where users can create their own fantasy Cricket teams, manage players, and track in-game currency. Built with React, this project focuses on delivering an engaging user experience with real-time notifications and smart player management features.
 
 **Live Link** [Cricket Dream 11](https://cricket-dream-11.netlify.app/)
 
-## Features
+## Features 
 
 1. **Player Selection and Management**
    - Users can add players to their team while preventing duplicate selections.
